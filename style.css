@@ -749,7 +749,7 @@ header.header-light #menu-btn:before{
 }
 
 #menu-btn.s1 {
-    display: block;
+    display: none;
     position: fixed;
     left: 20px;
     top: 20px;
