@@ -721,7 +721,7 @@ header:not(.header-mobile) #mainmenu>li:hover ul.mega {
 }
 
 #menu-btn {
-    display: none;
+    display: block;
     float: right;
     margin-top: -15px;
     width: 32px;
